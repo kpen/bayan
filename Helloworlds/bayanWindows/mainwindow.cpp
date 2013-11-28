@@ -44,13 +44,11 @@ QRect mainScreenSize = widget.availableGeometry(widget.primaryScreen());
  // or screenGeometry(), depending on your needs
     */
 
-desktopHeight-=100;
-desktopWidth-=50;
+desktopHeight-=80;
+//desktopWidth-=20;
 
-    char number = 4;
+    char number = 5;
     int windowWidth = desktopWidth/number-15;
-
-
 
 
 /*
