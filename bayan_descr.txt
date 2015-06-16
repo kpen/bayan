@@ -1,16 +1,13 @@
-﻿=Спецификация=
-самый черновиковый из всех черновиков
-видео бы, кстати, было бы идеальным представлением нижележащего потока мыслей, но не умею, пичалька.
+﻿=Specification=
+this is the most draft among all the drafts
+
+=Version=
+Max variant
 
 
-=Версия=
-Максимальный вариант
-
-
-=Термины=
-root doc  -  корневой документ, который мы открываем в самом начале
-parent doc - документ левее
-child doc - документ правее
+=Therms=
+parent_doc - (usually situated at the left window)
+child_doc - (situated at th right window)
 
 
 
